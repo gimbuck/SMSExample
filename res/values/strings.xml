@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">AndroidSMSExample</string>
+    <string name="string1">Fill Phone Number</string>
+    <string name="btLabel1">Send</string>
+    <string name="string2">Fill message ที่นี่</string>
+    <string name="string3">Last Message</string>
+</resources>
